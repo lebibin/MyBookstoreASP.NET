@@ -1,0 +1,52 @@
+﻿body, table 
+{
+    font-family:Arial,Helvetica,Sans-Serif;
+    font-size:.9em;
+    margin-right: 0px;
+}
+a 
+{
+    text-decoration:none;
+}
+a:hover
+{
+    text-decoration:underline;
+    background-color:#EEEEEE;
+}
+#menuPanel
+{
+    border-style:solid;
+    border-width:1px;
+    width:300px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:5px;
+}
+.validationError
+{
+    font-style:italic;
+    color:Red;
+}
+.reportHeader
+{
+    background-color:#507CD1;
+    font-weight:bold;
+    color:White;
+}
+.reportRow
+{
+    background-color:#EFF3FB;
+}
+.reportAltRow
+{
+    background-color:#FFFFFF;
+}
+.menuPanel
+{
+    border-style: solid;
+    border-width: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    width: 300px;
+}
